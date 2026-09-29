@@ -1,0 +1,6 @@
+{
+  "name": "Dino Runner",
+  "description": "A procedural HTML5 Canvas recreation of the classic offline dinosaur runner game with realistic physics, parallax clouds, cacti clusters, and pterodactyls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
